@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name": "ЕвроМосБлаг",
+    "tagline": "Малые архитектурные формы из мытого бетона",
+    "phone": "+7 (499) 649-77-89",
+    "email": "euromosblagtm@yandex.ru",
+    "whatsapp": "",
+    "telegram": "",
+    "site": "https://euromosblag.com"
+  },
+  "tiers": [
+    { "id": "basis", "name": "Базовый", "desc": "Изделия с завода, самовывоз", "markup": 0, "delivery": false, "montage": false },
+    { "id": "standard", "name": "Стандарт", "desc": "Доставка манипулятором и монтаж", "markup": 0, "delivery": true, "montage": true },
+    { "id": "premium", "name": "Премиум", "desc": "Доставка, монтаж, 3D-концепция, персональный менеджер", "markup": 0.15, "delivery": true, "montage": true }
+  ],
+  "logistics": { "truckPayloadKg": 10000, "rubPerKm": 120, "minPerTruck": 15000, "defaultKm": 50 },
+  "montagePct": 0.12,
+  "concept3dRub": 60000,
+  "showPricesInViewer": true,
+  "offerValidDays": 14,
+  "terms": [
+    "Фактуру можно выбрать из 7 вариантов без изменения стоимости.",
+    "Цены указаны с НДС, если не указано иное.",
+    "Срок действия предложения — 14 дней."
+  ],
+  "assumptions": "Тарифы доставки и монтажа — предварительные значения, задайте свои в режиме администратора (#admin)."
+}

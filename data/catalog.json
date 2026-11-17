@@ -1,0 +1,2995 @@
+[
+ {
+  "id": "skameyka_sochi_so_spinkoy",
+  "name": "Бетонные Скамейка Сочи со спинкой",
+  "cat": "bench",
+  "price": 42600.0,
+  "L": 1800.0,
+  "W": 500.0,
+  "H": 800,
+  "D": null,
+  "kg": 280.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_sochi/skameyka_sochi_so_spinkoy",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d98/500_500_1/skameyka_sochi_so_spinkoy.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_euro_1_1700x450x450",
+  "name": "Скамейка бетонная уличная Евро 1 1700x450x450",
+  "cat": "bench",
+  "price": 19726.0,
+  "L": 1700.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 180.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_1_1700x450x450",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/c50/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_1700x450x450.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_euro_street_1_arch",
+  "name": "Скамейка бетонная уличная Евро 1 Арка",
+  "cat": "bench",
+  "price": 40056.0,
+  "L": 3000.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 300.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_euro_street_1_arch",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/f9f/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_arka.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 90,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_euro_1_online",
+  "name": "Скамейка бетонная уличная Евро 1 Лайн",
+  "cat": "bench",
+  "price": 30850.0,
+  "L": 3200.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 200.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_1_online",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/6e6/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_layn.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_euro_1_with_backrest",
+  "name": "Скамейка бетонная уличная Евро 1 со спинкой",
+  "cat": "bench",
+  "price": 25089.0,
+  "L": 1700.0,
+  "W": 450.0,
+  "H": 800,
+  "D": null,
+  "kg": 200.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_1_with_backrest",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a98/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_so_spinkoy.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 2,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_euro_2",
+  "name": "Скамейка бетонная уличная Евро 2",
+  "cat": "bench",
+  "price": 29797.0,
+  "L": 2000.0,
+  "W": 400.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 300.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/524/500_500_1/skameyka_betonnaya_ulichnaya_evro_2.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_euro_2_arch_360_with_backrest",
+  "name": "Скамейка бетонная уличная Евро 2 Арка 360 со спинкой",
+  "cat": "bench",
+  "price": 74000.0,
+  "L": 3600.0,
+  "W": 400.0,
+  "H": 800,
+  "D": null,
+  "kg": 450.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2_arch_360_with_backrest",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/cf3/500_500_1/skameyka_betonnaya_ulichnaya_evro_2_arka_360_so_spinkoy.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": true,
+   "arc": 180,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_euro_6",
+  "name": "Скамейка бетонная уличная Евро 6",
+  "cat": "bench",
+  "price": 16813.0,
+  "L": 1500.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_6",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d78/500_500_1/skameyka_betonnaya_ulichnaya_evro_6.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_7_boulevard_with_backrest",
+  "name": "Скамейка бетонная уличная Евро 7 Бульвар со спинкой",
+  "cat": "bench",
+  "price": 214720.0,
+  "L": 3300.0,
+  "W": 1454.0,
+  "H": 900.0,
+  "D": null,
+  "kg": 500.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_7_boulevard_with_backrest",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1c8/500_500_1/skameyka_betonnaya_ulichnaya_evro_7_bulvar_so_spinkoy.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": true
+  },
+  "top": true
+ },
+ {
+  "id": "bench_concrete_street_carolina_2500x500x500",
+  "name": "Скамейка бетонная уличная Каролина 2500x500x500",
+  "cat": "bench",
+  "price": 31600.0,
+  "L": 2500.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 275.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_carolina_2500x500x500",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/b1f/500_500_1/skameyka_betonnaya_ulichnaya_karolina_2500x500x500.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "planter",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "skameyka_ulichnaya_betonnaya_arena",
+  "name": "Скамейка уличная бетонная Арена без спинки",
+  "cat": "bench",
+  "price": 13181.0,
+  "L": 1600.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 110.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_arena/skameyka_ulichnaya_betonnaya_arena",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/4cc/500_500_1/skameyka_ulichnaya_betonnaya_arena.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": true
+ },
+ {
+  "id": "skameyka_ulichnaya_betonnaya_sochi_dabl",
+  "name": "Бетонные Скамейка уличная бетонная Сочи дабл",
+  "cat": "bench",
+  "price": 85200.0,
+  "L": 1800,
+  "W": 450,
+  "H": 450,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_sochi/skameyka_ulichnaya_betonnaya_sochi_dabl",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/024/500_500_1/DablSochi.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "skameyka_ulichnaya_betonnaya_sochi_s_navesom",
+  "name": "Бетонные Скамейка уличная бетонная Сочи с навесом",
+  "cat": "bench",
+  "price": 135000.0,
+  "L": 1800.0,
+  "W": 500.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 320.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_sochi/skameyka_ulichnaya_betonnaya_sochi_s_navesom",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/844/500_500_1/IMG_20200521_WA0026.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "wood_flooring_1500kh500",
+  "name": "Деревянный настил 1500х500",
+  "cat": "bench",
+  "price": 0,
+  "L": 1500.0,
+  "W": 500.0,
+  "H": 40.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/derevyannye_nastily_dlya_skameek/wood_flooring_1500kh500",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/c7a/500_500_1/derevyannyy_nastil_1500kh500.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "wood_flooring_2000kh580",
+  "name": "Деревянный настил 2000х580",
+  "cat": "bench",
+  "price": 0,
+  "L": 2000.0,
+  "W": 580.0,
+  "H": 51.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/derevyannye_nastily_dlya_skameek/wood_flooring_2000kh580",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/f99/500_500_1/derevyannyy_nastil_2000kh580.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "kompleks_betonnykh_ulichnykh_skameek_serii_uniun_zakrytye",
+  "name": "Комплекс бетонных уличных скамеек серии Uniun закрытые",
+  "cat": "bench",
+  "price": 0,
+  "L": 1800,
+  "W": 450,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/kompleks_betonnykh_ulichnykh_skameek_serii_uniun_zakrytye",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/f9d/500_500_1/kompleks_betonnykh_ulichnykh_skameek_serii_uniun_zakrytye.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_anapa_sp",
+  "name": "Скамейка Анапа СП",
+  "cat": "bench",
+  "price": 0,
+  "L": 1800.0,
+  "W": 745.0,
+  "H": 470.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_anapa/bench_anapa_sp",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a4b/500_500_1/skamei_ka_arabat_sp.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_anapa_arch",
+  "name": "Скамейка Анапа арка",
+  "cat": "bench",
+  "price": 0,
+  "L": 2500.0,
+  "W": 600.0,
+  "H": 470.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_anapa/bench_anapa_arch",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/914/500_500_1/skamei_ka_arabat_arka.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_anapa_arch_sp",
+  "name": "Скамейка Анапа арка СП",
+  "cat": "bench",
+  "price": 0,
+  "L": 2500.0,
+  "W": 745.0,
+  "H": 470.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_anapa/bench_anapa_arch_sp",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/b66/500_500_1/skamei_ka_arabat_arka_sp.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_1500_c_wooden_slats",
+  "name": "Скамейка ТЕМПO-1500 c деревянными ламелями",
+  "cat": "bench",
+  "price": 0,
+  "L": 1500.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_1500_c_wooden_slats",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/66f/500_500_1/skamei_ka_tempo_1500_c_derevyannymi_lamelyami.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_1500_with_a_concrete_base",
+  "name": "Скамейка ТЕМПO-1500 с бетонным основанием",
+  "cat": "bench",
+  "price": 0,
+  "L": 1500.0,
+  "W": 500.0,
+  "H": 430.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_1500_with_a_concrete_base",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/8b1/500_500_1/skamei_ka_tempo_1500_s_betonnym_osnovaniem.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "concrete",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_4024_with_a_concrete_base",
+  "name": "Скамейка ТЕМПO-4024 с бетонным основанием",
+  "cat": "bench",
+  "price": 0,
+  "L": 2930.0,
+  "W": 500.0,
+  "H": 430.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_4024_with_a_concrete_base",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/8f5/500_500_1/skamei_ka_tempo_4024_s_betonnym_osnovaniem.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 3,
+   "seat": "concrete",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_4024r_c_wooden_base",
+  "name": "Скамейка ТЕМПO-4024R c деревянным основанием",
+  "cat": "bench",
+  "price": 81600.0,
+  "L": 2930.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_4024r_c_wooden_base",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/af2/500_500_1/skamei_ka_tempo_4024r_c_derevyannym_osnovaniem.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 90,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_4024r_with_a_concrete_base",
+  "name": "Скамейка ТЕМПO-4024R с бетонным основанием",
+  "cat": "bench",
+  "price": 81600.0,
+  "L": 2930.0,
+  "W": 500.0,
+  "H": 430.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_4024r_with_a_concrete_base",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/b3e/500_500_1/skamei_ka_tempo_4024r_s_betonnym_osnovaniem.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 3,
+   "seat": "concrete",
+   "back": false,
+   "arc": 90,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_5799_c_wooden_slats",
+  "name": "Скамейка ТЕМПO-5799 c деревянными ламелями",
+  "cat": "bench",
+  "price": 0,
+  "L": 2970.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_5799_c_wooden_slats",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/6b5/500_500_1/skamei_ka_tempo_5799_c_derevyannymi_lamelyami.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_5799_with_a_concrete_base",
+  "name": "Скамейка ТЕМПO-5799 с бетонным основанием",
+  "cat": "bench",
+  "price": 0,
+  "L": 2970.0,
+  "W": 500.0,
+  "H": 430.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_5799_with_a_concrete_base",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/973/500_500_1/skamei_ka_tempo_5799_s_betonnym_osnovaniem.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 3,
+   "seat": "concrete",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_5799r_with_wooden_slats",
+  "name": "Скамейка ТЕМПO-5799R c деревянными ламелями",
+  "cat": "bench",
+  "price": 0,
+  "L": 2970.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_5799r_with_wooden_slats",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/20f/500_500_1/skamei_ka_tempo_5799r_c_derevyannymi_lamelyami.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 90,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_700_c_wooden_slats",
+  "name": "Скамейка ТЕМПO-700 c деревянными ламелями",
+  "cat": "bench",
+  "price": 0,
+  "L": 700.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_700_c_wooden_slats",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/410/500_500_1/skamei_ka_tempo_700_c_derevyannymi_lamelyami.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_tempo_700_with_a_concrete_base",
+  "name": "Скамейка ТЕМПO-700 с бетонным основанием",
+  "cat": "bench",
+  "price": 0,
+  "L": 700.0,
+  "W": 500.0,
+  "H": 430.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_tempo_700_with_a_concrete_base",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/36c/500_500_1/skamei_ka_tempo_700_s_betonnym_osnovaniem.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "concrete",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_rbl",
+  "name": "Скамейка бетонная уличная UNI RBL",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_rbl",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/835/500_500_1/skameyka_betonnaya_ulichnaya_uni_rbl.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_rbt",
+  "name": "Скамейка бетонная уличная UNI RBT",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_rbt",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/7dd/500_500_1/skameyka_betonnaya_ulichnaya_uni_rbt.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_rll",
+  "name": "Скамейка бетонная уличная UNI RLL",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_rll",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/3aa/500_500_1/skameyka_betonnaya_ulichnaya_uni_rll.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_rlt",
+  "name": "Скамейка бетонная уличная UNI RLT",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_rlt",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/87d/500_500_1/skameyka_betonnaya_ulichnaya_uni_rlt.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_sbl",
+  "name": "Скамейка бетонная уличная UNI SBL",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_sbl",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/ab5/500_500_1/skameyka_betonnaya_ulichnaya_uni_sbl.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_sbt",
+  "name": "Скамейка бетонная уличная UNI SBT",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_sbt",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/dda/500_500_1/skameyka_betonnaya_ulichnaya_uni_sbt.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_sll",
+  "name": "Скамейка бетонная уличная UNI SLL",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_sll",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/4d3/500_500_1/skameyka_betonnaya_ulichnaya_uni_sll.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_slt",
+  "name": "Скамейка бетонная уличная UNI SLT",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_slt",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d28/500_500_1/skameyka_betonnaya_ulichnaya_uni_slt.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_uni_ssl",
+  "name": "Скамейка бетонная уличная UNI SSL",
+  "cat": "bench",
+  "price": 0,
+  "L": 1160.0,
+  "W": 875.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_uniun/bench_concrete_street_uni_ssl",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/868/500_500_1/skameyka_betonnaya_ulichnaya_uni_ssl.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_bridge",
+  "name": "Скамейка бетонная уличная Бридж",
+  "cat": "bench",
+  "price": 0,
+  "L": 2400.0,
+  "W": 580.0,
+  "H": 450.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_bridge",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/bf0/500_500_1/skameyka_betonnaya_ulichnaya_bridzh.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_delta",
+  "name": "Скамейка бетонная уличная Дельта",
+  "cat": "bench",
+  "price": 12500.0,
+  "L": 2200.0,
+  "W": 530.0,
+  "H": 500.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_delta",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/70a/500_500_1/skameyka_betonnaya_ulichnaya_delta.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "frame",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_1_double",
+  "name": "Скамейка бетонная уличная Евро 1 Дабл",
+  "cat": "bench",
+  "price": 33626.0,
+  "L": 2250.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 300.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_1_double",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/dec/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_dabl.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_1_set",
+  "name": "Скамейка бетонная уличная Евро 1 Комплект",
+  "cat": "bench",
+  "price": 48054.0,
+  "L": 2200.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 460.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_1_set",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/f92/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_komplekt.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_on_1_line_with_back",
+  "name": "Скамейка бетонная уличная Евро 1 Лайн со спинкой",
+  "cat": "bench",
+  "price": 40102.0,
+  "L": 3200.0,
+  "W": 450.0,
+  "H": 800,
+  "D": null,
+  "kg": 220.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_on_1_line_with_back",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/2a3/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_layn_so_spinkoy.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 3,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_1_ego",
+  "name": "Скамейка бетонная уличная Евро 1 Эго",
+  "cat": "bench",
+  "price": 18097.0,
+  "L": 950.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_1_ego",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/843/500_500_1/skameyka_betonnaya_ulichnaya_evro_1_ego.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_2_arch",
+  "name": "Скамейка бетонная уличная Евро 2 Арка",
+  "cat": "bench",
+  "price": 37625.0,
+  "L": 2000.0,
+  "W": 400.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 280.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2_arch",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/9f5/500_500_1/skameyka_betonnaya_ulichnaya_evro_2_arka.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 90,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_2_arch_360",
+  "name": "Скамейка бетонная уличная Евро 2 Арка 360",
+  "cat": "bench",
+  "price": 0,
+  "L": 3600.0,
+  "W": 400.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 450.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2_arch_360",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/6b6/500_500_1/skameyka_betonnaya_ulichnaya_evro_2_arka_360.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 180,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_2_online",
+  "name": "Скамейка бетонная уличная Евро 2 Лайн",
+  "cat": "bench",
+  "price": 41431.0,
+  "L": 3600.0,
+  "W": 450.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 375.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2_online",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/43e/500_500_1/skameyka_betonnaya_ulichnaya_evro_2_layn.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_2_line_with_back",
+  "name": "Скамейка бетонная уличная Евро 2 Лайн со спинкой",
+  "cat": "bench",
+  "price": 53531.0,
+  "L": 3600.0,
+  "W": 450.0,
+  "H": 800,
+  "D": null,
+  "kg": 450.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2_line_with_back",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d90/500_500_1/skameyka_betonnaya_ulichnaya_evro_2_layn_so_spinkoy.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_2_with_backrest",
+  "name": "Скамейка бетонная уличная Евро 2 со спинкой",
+  "cat": "bench",
+  "price": 35348.0,
+  "L": 2000.0,
+  "W": 400.0,
+  "H": 800,
+  "D": null,
+  "kg": 300.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_2_with_backrest",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/430/500_500_1/skameyka_betonnaya_ulichnaya_evro_2_so_spinkoy.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_3_1800x650x450",
+  "name": "Скамейка бетонная уличная Евро 3 1800x650x450",
+  "cat": "bench",
+  "price": 28082.0,
+  "L": 1800.0,
+  "W": 650.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_3_1800x650x450",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/980/500_500_1/Skamya-Evro-3-mramor-00002.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_4",
+  "name": "Скамейка бетонная уличная Евро 4",
+  "cat": "bench",
+  "price": 36214.0,
+  "L": 2000.0,
+  "W": 760.0,
+  "H": 450,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_4",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/aa3/500_500_1/skameyka_betonnaya_ulichnaya_evro_4.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_6_mini",
+  "name": "Скамейка бетонная уличная Евро 6 мини",
+  "cat": "bench",
+  "price": 13100.0,
+  "L": 1500.0,
+  "W": 250.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 100.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_6_mini",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/475/500_500_1/skameyka_betonnaya_ulichnaya_evro_6_mini.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_7_online_with_backrest",
+  "name": "Скамейка бетонная уличная Евро 7 Лайн со спинкой",
+  "cat": "bench",
+  "price": 107360.0,
+  "L": 3300.0,
+  "W": 727.0,
+  "H": 900.0,
+  "D": null,
+  "kg": 230.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_7_online_with_backrest",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/3a4/500_500_1/skameyka_betonnaya_ulichnaya_evro_7_layn_so_spinkoy.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "box",
+   "n": 3,
+   "seat": "wood",
+   "back": true,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_euro_urban",
+  "name": "Скамейка бетонная уличная Евро Урбан",
+  "cat": "bench",
+  "price": 0,
+  "L": 1500.0,
+  "W": 600.0,
+  "H": 480.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_euro_urban",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d5d/500_500_1/skameyka_betonnaya_ulichnaya_evro_urban.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "round",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_street_carolina_arch",
+  "name": "Скамейка бетонная уличная Каролина Арка",
+  "cat": "bench",
+  "price": 61500.0,
+  "L": 3900.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 310.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_street_carolina_arch",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1ce/500_500_1/skameyka_betonnaya_ulichnaya_karolina_arka.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "planter",
+   "n": 3,
+   "seat": "wood",
+   "back": false,
+   "arc": 90,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_outdoor_temp_1500x500x450",
+  "name": "Скамейка бетонная уличная Темп 1500x500x450",
+  "cat": "bench",
+  "price": 48000.0,
+  "L": 1500.0,
+  "W": 500.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 550.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_outdoor_temp_1500x500x450",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a5d/500_500_1/skameyka_betonnaya_ulichnaya_temp_1500x500x450.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_concrete_outdoor_temp_chair",
+  "name": "Скамейка бетонная уличная Темп Стул",
+  "cat": "bench",
+  "price": 0,
+  "L": 700.0,
+  "W": 500.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 250.0,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/bench_concrete_outdoor_temp_chair",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/30f/500_500_1/skameyka_betonnaya_ulichnaya_temp_stul.jpeg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "bench_anapa",
+  "name": "Скамейка уличная бетонная серии Анапа",
+  "cat": "bench",
+  "price": 0,
+  "L": 1800.0,
+  "W": 600.0,
+  "H": 470.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/skameyki_betonnye/skameyki_serii_anapa/bench_anapa",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/005/500_500_1/skamei_ka_arabat.jpg",
+  "gen": {
+   "type": "bench",
+   "ped": "slab",
+   "n": 2,
+   "seat": "wood",
+   "back": false,
+   "arc": 0,
+   "double": false
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_andorra_80",
+  "name": "Вазон бетонный уличный Андорра 80",
+  "cat": "planter",
+  "price": 29061.0,
+  "L": 650.0,
+  "W": 650.0,
+  "H": 800.0,
+  "D": null,
+  "kg": 320.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/flowerpot_concrete_street_andorra_80",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/0d5/500_500_1/vazon_betonnyy_ulichnyy_andorra_80.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_byzantium_600",
+  "name": "Вазон бетонный уличный Византия 60",
+  "cat": "planter",
+  "price": 39000.0,
+  "L": 1000.0,
+  "W": 1000.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 310.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_byzantium_600",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a4c/500_500_1/vazon_betonnyy_ulichnyy_vizantiya_60.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "rim"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_globe",
+  "name": "Вазон бетонный уличный Глобус",
+  "cat": "planter",
+  "price": 24520.0,
+  "L": 900.0,
+  "W": 900.0,
+  "H": 700.0,
+  "D": 900.0,
+  "kg": 250.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_globe",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a38/500_500_1/vazon_betonnyy_ulichnyy_globus.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "sphere"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_carolina_40",
+  "name": "Вазон бетонный уличный Каролина 40",
+  "cat": "planter",
+  "price": 9990.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 110.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_carolina_40",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/c8e/500_500_1/vazon_betonnyy_ulichnyy_karolina_40.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_kiel",
+  "name": "Вазон бетонный уличный Киль",
+  "cat": "planter",
+  "price": 11806.0,
+  "L": 450.0,
+  "W": 450.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 130.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_kiel",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/7d5/500_500_1/vazon_betonnyy_ulichnyy_kil.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_leon_90",
+  "name": "Вазон бетонный уличный Леон 90",
+  "cat": "planter",
+  "price": 15438.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 900.0,
+  "D": 400.0,
+  "kg": 170.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_leon_90",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/c39/500_500_1/vazon_betonnyy_ulichnyy_leon_90.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_plateau_110",
+  "name": "Вазон бетонный уличный Плато Ø1100",
+  "cat": "planter",
+  "price": 17255.0,
+  "L": 1100.0,
+  "W": 1100.0,
+  "H": 400.0,
+  "D": 1100.0,
+  "kg": 180.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_plateau_110",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/df9/500_500_1/vazon_betonnyy_ulichnyy_plato_1100.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "bowl"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_sardinia",
+  "name": "Вазон бетонный уличный Сардиния",
+  "cat": "planter",
+  "price": 34964.0,
+  "L": 1200.0,
+  "W": 600.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 385.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_sardinia",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/af9/500_500_1/vazon_betonnyy_ulichnyy_sardiniya.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_tallinn_40",
+  "name": "Вазон бетонный уличный Таллин 40",
+  "cat": "planter",
+  "price": 20887.0,
+  "L": 750.0,
+  "W": 750.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 230.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_tallinn_40",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/781/500_500_1/vazon_betonnyy_ulichnyy_tallin_40.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_outdoor_transformer_circle",
+  "name": "Вазон бетонный уличный Трансформер круг",
+  "cat": "planter",
+  "price": 47224.0,
+  "L": 1440.0,
+  "W": 1440.0,
+  "H": 400.0,
+  "D": 1440.0,
+  "kg": 520.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_outdoor_transformer_circle",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/165/500_500_1/vazon_betonnyy_ulichnyy_transformer_krug.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "ring"
+  },
+  "top": true
+ },
+ {
+  "id": "flowerpot_concrete_street_yalta",
+  "name": "Вазон бетонный уличный Ялта",
+  "cat": "planter",
+  "price": 16347.0,
+  "L": 530.0,
+  "W": 530.0,
+  "H": 1000.0,
+  "D": null,
+  "kg": 180.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_yalta",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/779/500_500_1/vazon_betonnyy_ulichnyy_yalta.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "hourglass"
+  },
+  "top": true
+ },
+ {
+  "id": "vazon_betonnyy_ulichnyy_aliva",
+  "name": "Вазон бетонный уличный Алива",
+  "cat": "planter",
+  "price": 9990.0,
+  "L": 450.0,
+  "W": 450.0,
+  "H": 690.0,
+  "D": null,
+  "kg": 110.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/vazon_betonnyy_ulichnyy_aliva",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/953/500_500_1/Aliva.jpeg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_al",
+  "name": "Вазон бетонный уличный Альпина",
+  "cat": "planter",
+  "price": 5109.0,
+  "L": 540.0,
+  "W": 540.0,
+  "H": 280.0,
+  "D": 540.0,
+  "kg": 45.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_al",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/788/500_500_1/vazon_betonnyy_ulichnyy_alpina.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "bowl"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_andorra_100",
+  "name": "Вазон бетонный уличный Андорра 100",
+  "cat": "planter",
+  "price": 34510.0,
+  "L": 650.0,
+  "W": 650.0,
+  "H": 1000.0,
+  "D": null,
+  "kg": 380.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/flowerpot_concrete_street_andorra_100",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/3a2/500_500_1/vazon_betonnyy_ulichnyy_andorra_100.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_andorra_60",
+  "name": "Вазон бетонный уличный Андорра 60",
+  "cat": "planter",
+  "price": 23612.0,
+  "L": 650.0,
+  "W": 650.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 260.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/flowerpot_concrete_street_andorra_60",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/728/500_500_1/vazon_betonnyy_ulichnyy_andorra_60.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_baleno_1",
+  "name": "Вазон бетонный уличный Балено",
+  "cat": "planter",
+  "price": 16347.0,
+  "L": 1200.0,
+  "W": 400.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 180.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_baleno_1",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/08d/500_500_1/vazon_betonnyy_ulichnyy_baleno_1.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_bultema",
+  "name": "Вазон бетонный уличный Балтема",
+  "cat": "planter",
+  "price": 7946.0,
+  "L": 380.0,
+  "W": 380.0,
+  "H": 520.0,
+  "D": null,
+  "kg": 70.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_bultema",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/644/500_500_1/vazon_betonnyy_ulichnyy_baltema.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_barbara",
+  "name": "Вазон бетонный уличный Барбара",
+  "cat": "planter",
+  "price": 19525.0,
+  "L": 600.0,
+  "W": 600.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 215.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/flowerpot_concrete_street_barbara",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/36e/500_500_1/vazon_betonnyy_ulichnyy_barbara.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "pot_belly_concrete_street",
+  "name": "Вазон бетонный уличный Бэлли",
+  "cat": "planter",
+  "price": 4541.0,
+  "L": 340.0,
+  "W": 340.0,
+  "H": 300.0,
+  "D": 340.0,
+  "kg": 40.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/pot_belly_concrete_street",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/53f/500_500_1/vazon_betonnyy_ulichnyy_belli.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_verona",
+  "name": "Вазон бетонный уличный Верона",
+  "cat": "planter",
+  "price": 2270.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 190.0,
+  "D": 400.0,
+  "kg": 20.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_verona",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/0f0/500_500_1/vazon_betonnyy_ulichnyy_verona.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_byzantium_300",
+  "name": "Вазон бетонный уличный Византия 30",
+  "cat": "planter",
+  "price": 29000.0,
+  "L": 1000.0,
+  "W": 1000.0,
+  "H": 300.0,
+  "D": null,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_byzantium_300",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/43a/500_500_1/vazon_betonnyy_ulichnyy_vizantiya_30.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "rim"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_hamburg_50",
+  "name": "Вазон бетонный уличный Гамбург Ø480",
+  "cat": "planter",
+  "price": 11806.0,
+  "L": 480.0,
+  "W": 480.0,
+  "H": 640.0,
+  "D": 480.0,
+  "kg": 90.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_hamburg_50",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/c7f/500_500_1/vazon_betonnyy_ulichnyy_gamburg_500.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_delta_big",
+  "name": "Вазон бетонный уличный Гранд Дельта",
+  "cat": "planter",
+  "price": 22704.0,
+  "L": 700.0,
+  "W": 700.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 200.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/flowerpot_concrete_street_delta_big",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/4ac/500_500_1/vazon_betonnyy_ulichnyy_delta_big.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_jack",
+  "name": "Вазон бетонный уличный Джек",
+  "cat": "planter",
+  "price": 11806.0,
+  "L": 1000.0,
+  "W": 400.0,
+  "H": 300.0,
+  "D": null,
+  "kg": 130.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_jack",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/561/500_500_1/vazon_betonnyy_ulichnyy_dzhek.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_jessica",
+  "name": "Вазон бетонный уличный Джессика",
+  "cat": "planter",
+  "price": 5676.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 300.0,
+  "D": null,
+  "kg": 50.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_jessica",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a3f/500_500_1/vazon_betonnyy_ulichnyy_dzhessika.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_dior",
+  "name": "Вазон бетонный уличный Диора",
+  "cat": "planter",
+  "price": 18600.0,
+  "L": 700.0,
+  "W": 700.0,
+  "H": 1000.0,
+  "D": 700.0,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/flowerpot_concrete_street_dior",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/ced/500_500_1/vazon_betonnyy_ulichnyy_diora.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "hourglass"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_dominic",
+  "name": "Вазон бетонный уличный Доминик",
+  "cat": "planter",
+  "price": 11806.0,
+  "L": 800.0,
+  "W": 800.0,
+  "H": 530.0,
+  "D": null,
+  "kg": 130.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_dominic",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/e32/500_500_1/vazon_betonnyy_ulichnyy_dominik.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "rim"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_carolina_30",
+  "name": "Вазон бетонный уличный Каролина 30",
+  "cat": "planter",
+  "price": 8173.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 300.0,
+  "D": null,
+  "kg": 90.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_carolina_30",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/e51/500_500_1/vazon_betonnyy_ulichnyy_karolina_30.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_carolina_50",
+  "name": "Вазон бетонный уличный Каролина 50",
+  "cat": "planter",
+  "price": 11806.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 130.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_carolina_50",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/5d7/500_500_1/vazon_betonnyy_ulichnyy_karolina_50.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_quartini",
+  "name": "Вазон бетонный уличный Квартини",
+  "cat": "planter",
+  "price": 3405.0,
+  "L": 320.0,
+  "W": 320.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 30.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_quartini",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1c7/500_500_1/vazon_betonnyy_ulichnyy_kvartini.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_lamella",
+  "name": "Вазон бетонный уличный Ламелла",
+  "cat": "planter",
+  "price": 4995.0,
+  "L": 550.0,
+  "W": 550.0,
+  "H": 260.0,
+  "D": 550.0,
+  "kg": 55.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_lamella",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1bd/500_500_1/vazon_betonnyy_ulichnyy_lamella.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_leon_80",
+  "name": "Вазон бетонный уличный Леон 80",
+  "cat": "planter",
+  "price": 12714.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 800.0,
+  "D": 400.0,
+  "kg": 140.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_leon_80",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/2e1/500_500_1/vazon_betonnyy_ulichnyy_leon_80.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_lobito",
+  "name": "Вазон бетонный уличный Лоббито",
+  "cat": "planter",
+  "price": 7379.0,
+  "L": 560.0,
+  "W": 560.0,
+  "H": 270.0,
+  "D": 560.0,
+  "kg": 65.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_lobito",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/cc4/500_500_1/vazon_betonnyy_ulichnyy_lobbito.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_london",
+  "name": "Вазон бетонный уличный Лондон",
+  "cat": "planter",
+  "price": 25428.0,
+  "L": 500,
+  "W": 500,
+  "H": 700.0,
+  "D": null,
+  "kg": 280.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_london",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d40/500_500_1/vazon_betonnyy_ulichnyy_london.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_moon_50",
+  "name": "Вазон бетонный уличный Луна 50",
+  "cat": "planter",
+  "price": 22704.0,
+  "L": 800.0,
+  "W": 800.0,
+  "H": 500.0,
+  "D": 800.0,
+  "kg": 250.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_moon_50",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/83b/500_500_1/vazon_betonnyy_ulichnyy_luna_50.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_magdalena",
+  "name": "Вазон бетонный уличный Магдалена",
+  "cat": "planter",
+  "price": 9081.0,
+  "L": 590.0,
+  "W": 590.0,
+  "H": 400.0,
+  "D": 590.0,
+  "kg": 110.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_magdalena",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/652/500_500_1/vazon_betonnyy_ulichnyy_magdalena.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "pot_street_concrete_monica",
+  "name": "Вазон бетонный уличный Моника",
+  "cat": "planter",
+  "price": 2838.0,
+  "L": 300.0,
+  "W": 300.0,
+  "H": 200.0,
+  "D": null,
+  "kg": 25.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/malye_vazony/pot_street_concrete_monica",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/9d3/500_500_1/vazon_betonnyy_ulichnyy_monika.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_nest",
+  "name": "Вазон бетонный уличный Нест 70",
+  "cat": "planter",
+  "price": 26788.0,
+  "L": 740.0,
+  "W": 740.0,
+  "H": 740.0,
+  "D": null,
+  "kg": 120.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_nest",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/3e1/500_500_1/vazon_betonnyy_ulichnyy_nest_70.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_nest_2",
+  "name": "Вазон бетонный уличный Нест 80",
+  "cat": "planter",
+  "price": 28577.0,
+  "L": 865.0,
+  "W": 665.0,
+  "H": 740.0,
+  "D": null,
+  "kg": 125.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_nest_2",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/ae8/500_500_1/vazon_betonnyy_ulichnyy_nest_80.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_prism",
+  "name": "Вазон бетонный уличный Призма",
+  "cat": "planter",
+  "price": 6244.0,
+  "L": 320.0,
+  "W": 320.0,
+  "H": 420.0,
+  "D": 320.0,
+  "kg": 55.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_prism",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/4da/500_500_1/vazon_betonnyy_ulichnyy_prizma.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_seville",
+  "name": "Вазон бетонный уличный Севилья",
+  "cat": "planter",
+  "price": 25428.0,
+  "L": 1400.0,
+  "W": 400.0,
+  "H": 450.0,
+  "D": null,
+  "kg": 280.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_seville",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/103/500_500_1/vazon_betonnyy_ulichnyy_sevilya.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_of_sitia",
+  "name": "Вазон бетонный уличный Сития",
+  "cat": "planter",
+  "price": 17255.0,
+  "L": 1000.0,
+  "W": 400.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 190.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_of_sitia",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/34a/500_500_1/vazon_betonnyy_ulichnyy_sitiya.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_sicily",
+  "name": "Вазон бетонный уличный Сицилия",
+  "cat": "planter",
+  "price": 18163.0,
+  "L": 1100.0,
+  "W": 400.0,
+  "H": 400.0,
+  "D": 1100.0,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_sicily",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/301/500_500_1/vazon_betonnyy_ulichnyy_sitsiliya.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_step",
+  "name": "Вазон бетонный уличный Степ",
+  "cat": "planter",
+  "price": 4541.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 300.0,
+  "D": 400.0,
+  "kg": 40.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_step",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/da4/500_500_1/vazon_betonnyy_ulichnyy_step.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "bowl"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_tallinn_30",
+  "name": "Вазон бетонный уличный Таллин 30",
+  "cat": "planter",
+  "price": 13622.0,
+  "L": 750.0,
+  "W": 750.0,
+  "H": 300.0,
+  "D": null,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_tallinn_30",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/5f3/500_500_1/vazon_betonnyy_ulichnyy_tallin_30.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_tallinn_50",
+  "name": "Вазон бетонный уличный Таллин 50",
+  "cat": "planter",
+  "price": 27244.0,
+  "L": 750.0,
+  "W": 750.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 300.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_tallinn_50",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/952/500_500_1/vazon_betonnyy_ulichnyy_tallin_50.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_street_tallinn_60",
+  "name": "Вазон бетонный уличный Таллин 60",
+  "cat": "planter",
+  "price": 34510.0,
+  "L": 750.0,
+  "W": 750.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 380.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_street_tallinn_60",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d16/500_500_1/vazon_betonnyy_ulichnyy_tallin_60.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "taper"
+  },
+  "top": false
+ },
+ {
+  "id": "flowerpot_concrete_outdoor_transformer_semicircle_2_4",
+  "name": "Вазон бетонный уличный Трансформер полукруг 2/4",
+  "cat": "planter",
+  "price": 23612.0,
+  "L": 1440.0,
+  "W": 1440.0,
+  "H": 400.0,
+  "D": 1440.0,
+  "kg": 260.0,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/flowerpot_concrete_outdoor_transformer_semicircle_2_4",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/005/500_500_1/vazon_betonnyy_ulichnyy_transformer_polukrug_2_4.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "halfring"
+  },
+  "top": false
+ },
+ {
+  "id": "vazon_betonnyy_ulichnyy_teper",
+  "name": "Вазон бетонный уличный Тэпер",
+  "cat": "planter",
+  "price": 0,
+  "L": 620.0,
+  "W": 620.0,
+  "H": 800.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/vazony_betonnye/bolshie_vazony/vazon_betonnyy_ulichnyy_teper/",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/584/500_500_1/photo_2023_06_03_11_39_08-_2_.jpg",
+  "gen": {
+   "type": "planter",
+   "shape": "cone"
+  },
+  "top": false
+ },
+ {
+  "id": "boxes_concrete_wood_avignon_42kh60",
+  "name": "Урны бетонные деревянные Авиньон 42х60",
+  "cat": "urn",
+  "price": 19876.0,
+  "L": 420.0,
+  "W": 420.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 50.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urny_s_derevyannymi_lamelyami/boxes_concrete_wood_avignon_42kh60",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/33a/500_500_1/urny_betonnye_derevyannye_avinon_42kh60.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "wood"
+  },
+  "top": true
+ },
+ {
+  "id": "urns_concrete_street_carolina",
+  "name": "Урны бетонные уличные Каролина",
+  "cat": "urn",
+  "price": 14887.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": null,
+  "kg": 130.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_carolina",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/d9c/500_500_1/urny_betonnye_ulichnye_karolina.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "box"
+  },
+  "top": true
+ },
+ {
+  "id": "urns_concrete_street_cologne",
+  "name": "Урны бетонные уличные Кёльн",
+  "cat": "urn",
+  "price": 10588.0,
+  "L": 430.0,
+  "W": 430.0,
+  "H": 690.0,
+  "D": 430.0,
+  "kg": 90.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_cologne",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/4d3/500_500_1/urny_betonnye_ulichnye_keln.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "cylinder"
+  },
+  "top": true
+ },
+ {
+  "id": "urns_concrete_street_prague",
+  "name": "Урны бетонные уличные Прага",
+  "cat": "urn",
+  "price": 19922.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 800.0,
+  "D": 500.0,
+  "kg": 180.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_prague",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/dce/500_500_1/urny_betonnye_ulichnye_praga.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "hex"
+  },
+  "top": true
+ },
+ {
+  "id": "urns_concrete_street_troy",
+  "name": "Урны бетонные уличные Троя",
+  "cat": "urn",
+  "price": 12055.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 100.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_troy",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/fc0/500_500_1/urny_betonnye_ulichnye_troya.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "stack"
+  },
+  "top": true
+ },
+ {
+  "id": "boxes_concrete_wood_avignon_51kh60",
+  "name": "Урны бетонные деревянные Авиньон 51х60",
+  "cat": "urn",
+  "price": 22330.0,
+  "L": 510.0,
+  "W": 510.0,
+  "H": 600.0,
+  "D": null,
+  "kg": 55.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urny_s_derevyannymi_lamelyami/boxes_concrete_wood_avignon_51kh60",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/817/500_500_1/urny_betonnye_derevyannye_avinon_51kh60.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "wood"
+  },
+  "top": false
+ },
+ {
+  "id": "urny_betonnye_ulichnye_albena",
+  "name": "Урны бетонные уличные Албена",
+  "cat": "urn",
+  "price": 9222.0,
+  "L": 420.0,
+  "W": 420.0,
+  "H": 570.0,
+  "D": 420.0,
+  "kg": 70.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urny_betonnye_ulichnye_albena",
+  "img": null,
+  "gen": {
+   "type": "urn",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_bastille",
+  "name": "Урны бетонные уличные Бастилия",
+  "cat": "urn",
+  "price": 14887.0,
+  "L": 480.0,
+  "W": 480.0,
+  "H": 640.0,
+  "D": 480.0,
+  "kg": 130.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_bastille",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/24c/500_500_1/urny_betonnye_ulichnye_bastiliya.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "hex"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_brest_mini",
+  "name": "Урны бетонные уличные Брест мини",
+  "cat": "urn",
+  "price": 7755.0,
+  "L": 430.0,
+  "W": 500.0,
+  "H": 480.0,
+  "D": null,
+  "kg": 55.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_brest_mini",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/223/500_500_1/urny_betonnye_ulichnye_brest_mini.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_warsaw",
+  "name": "Урны бетонные уличные Варшава",
+  "cat": "urn",
+  "price": 16776.0,
+  "L": 550.0,
+  "W": 550.0,
+  "H": 690.0,
+  "D": 550.0,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urny_betonno_monolitnye/urns_concrete_street_warsaw",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/400/500_500_1/urny_betonnye_ulichnye_varshava.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_hamburg",
+  "name": "Урны бетонные уличные Гамбург",
+  "cat": "urn",
+  "price": 11111.0,
+  "L": 480.0,
+  "W": 480.0,
+  "H": 640.0,
+  "D": 480.0,
+  "kg": 90.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_hamburg",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/170/500_500_1/urny_betonnye_ulichnye_gamburg.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_dublin",
+  "name": "Урны бетонные уличные Дублин",
+  "cat": "urn",
+  "price": 17720.0,
+  "L": 490.0,
+  "W": 490.0,
+  "H": 690.0,
+  "D": 490.0,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_dublin",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/8df/500_500_1/urny_betonnye_ulichnye_dublin.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_keel_maxi",
+  "name": "Урны бетонные уличные Киль Макси",
+  "cat": "urn",
+  "price": 17720.0,
+  "L": 450.0,
+  "W": 450.0,
+  "H": 800.0,
+  "D": null,
+  "kg": 150.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_keel_maxi",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1b0/500_500_1/urny_betonnye_ulichnye_kil_maksi.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "box"
+  },
+  "top": false
+ },
+ {
+  "id": "urns_concrete_street_cologne_mini",
+  "name": "Урны бетонные уличные Кёльн мини",
+  "cat": "urn",
+  "price": 7283.0,
+  "L": 430.0,
+  "W": 430.0,
+  "H": 500.0,
+  "D": 430.0,
+  "kg": 50.0,
+  "url": "https://euromosblag.com/catalog/urny_betonnye/urns_concrete_street_cologne_mini",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/bdc/500_500_1/urny_betonnye_ulichnye_keln_mini.jpg",
+  "gen": {
+   "type": "urn",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_balboa_70",
+  "name": "Ограждение бетонное Бальбоа 70 для парковки",
+  "cat": "bollard",
+  "price": 14530.0,
+  "L": 300.0,
+  "W": 300.0,
+  "H": 700.0,
+  "D": null,
+  "kg": 160.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_balboa_70",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/901/500_500_1/parkovochnoe_ograzhdenie_betonnoe_balboa_70.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "post"
+  },
+  "top": true
+ },
+ {
+  "id": "parking_concrete_fence_bern",
+  "name": "Ограждение бетонное Берн для парковки",
+  "cat": "bollard",
+  "price": 8173.0,
+  "L": 530.0,
+  "W": 360.0,
+  "H": 350.0,
+  "D": 530.0,
+  "kg": 91.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_concrete_fence_bern",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/787/500_500_1/parkovochnoe_ograzhdenie_betonnoe_bern.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "hemisphere"
+  },
+  "top": true
+ },
+ {
+  "id": "parking_fence_concrete_burgas",
+  "name": "Ограждение бетонное Бургас для парковки",
+  "cat": "bollard",
+  "price": 8446.0,
+  "L": 320.0,
+  "W": 320.0,
+  "H": 600.0,
+  "D": 320.0,
+  "kg": 93.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_burgas",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/6fd/500_500_1/parkovochnoe_ograzhdenie_betonnoe_burgas.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "cylinder"
+  },
+  "top": true
+ },
+ {
+  "id": "parking_fence_concrete_cube",
+  "name": "Ограждение бетонное Куб для парковки",
+  "cat": "bollard",
+  "price": 12714.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 155.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_cube",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/687/500_500_1/parkovochnoe_ograzhdenie_betonnoe_kub.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "roundcube"
+  },
+  "top": true
+ },
+ {
+  "id": "parking_fence_concrete_sphere_50_cm",
+  "name": "Ограждение бетонное Сфера Ø 50 см для парковки",
+  "cat": "bollard",
+  "price": 14530.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 500.0,
+  "D": 500.0,
+  "kg": 160.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_sphere_50_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/fb5/500_500_1/parkovochnoe_ograzhdenie_betonnoe_sfera_50_sm.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "sphere"
+  },
+  "top": true
+ },
+ {
+  "id": "parking_fence_concrete_pylon",
+  "name": "Столбики антипарковочные Пилон",
+  "cat": "bollard",
+  "price": 2724.0,
+  "L": 150.0,
+  "W": 150.0,
+  "H": 700.0,
+  "D": 150.0,
+  "kg": 50.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_pylon",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/e09/500_500_1/parkovochnoe_ograzhdenie_betonnoe_pilon.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "capsule"
+  },
+  "top": true
+ },
+ {
+  "id": "parking_fence_concrete_balboa_30",
+  "name": "Ограждение бетонное Бальбоа 30 для парковки",
+  "cat": "bollard",
+  "price": 14530.0,
+  "L": 300.0,
+  "W": 300.0,
+  "H": 300.0,
+  "D": null,
+  "kg": 68.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_balboa_30",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/958/500_500_1/parkovochnoe_ograzhdenie_betonnoe_balboa_30.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "post"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_bucharest_2",
+  "name": "Ограждение бетонное Бухарест 2 для парковки",
+  "cat": "bollard",
+  "price": 6811.0,
+  "L": 315.0,
+  "W": 315.0,
+  "H": 420.0,
+  "D": 315.0,
+  "kg": 50.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_bucharest_2",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/932/500_500_1/parkovochnoe_ograzhdenie_betonnoe_bukharest_2.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_manchester",
+  "name": "Ограждение бетонное Манчестер для парковки",
+  "cat": "bollard",
+  "price": 16347.0,
+  "L": 500,
+  "W": 500,
+  "H": 500.0,
+  "D": 500,
+  "kg": 180.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_manchester",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/696/500_500_1/parkovochnoe_ograzhdenie_betonnoe_manchester.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "hemisphere"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_pisa",
+  "name": "Ограждение бетонное Пиза для парковки",
+  "cat": "bollard",
+  "price": 7265.0,
+  "L": 300.0,
+  "W": 300.0,
+  "H": 400.0,
+  "D": null,
+  "kg": 80.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_pisa",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/89c/500_500_1/parkovochnoe_ograzhdenie_betonnoe_piza.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "post"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_rimini",
+  "name": "Ограждение бетонное Римини для парковки",
+  "cat": "bollard",
+  "price": 6357.0,
+  "L": 250.0,
+  "W": 250.0,
+  "H": 650.0,
+  "D": null,
+  "kg": 70.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_rimini",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/b5b/500_500_1/parkovochnoe_ograzhdenie_betonnoe_rimini.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "post"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_sphere_2_50_cm",
+  "name": "Ограждение бетонное Сфера 2, Ø 50 см для парковки",
+  "cat": "bollard",
+  "price": 27244.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 250.0,
+  "D": 500.0,
+  "kg": 300.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_sphere_2_50_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1b0/500_500_1/parkovochnoe_ograzhdenie_betonnoe_sfera_2_50_sm.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "sphere2"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_sphere_30_cm",
+  "name": "Ограждение бетонное Сфера Ø 30 см для парковки",
+  "cat": "bollard",
+  "price": 6500.0,
+  "L": 300.0,
+  "W": 300.0,
+  "H": 300.0,
+  "D": 300.0,
+  "kg": 40.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_sphere_30_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/19b/500_500_1/parkovochnoe_ograzhdenie_betonnoe_sfera_30_sm.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "sphere"
+  },
+  "top": false
+ },
+ {
+  "id": "parking_fence_concrete_sphere_40_cm",
+  "name": "Ограждение бетонное Сфера Ø 40 см для парковки",
+  "cat": "bollard",
+  "price": 7500.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 400.0,
+  "D": 400.0,
+  "kg": 95.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/parking_fence_concrete_sphere_40_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/50d/500_500_1/parkovochnoe_ograzhdenie_betonnoe_sfera_40_sm.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "sphere"
+  },
+  "top": false
+ },
+ {
+  "id": "parkovochnoe_ograzhdenie_betonnoe_tver",
+  "name": "Парковочное ограждение бетонное Тверь",
+  "cat": "bollard",
+  "price": 6902.0,
+  "L": 240.0,
+  "W": 240.0,
+  "H": 470.0,
+  "D": 240.0,
+  "kg": 76.0,
+  "url": "https://euromosblag.com/catalog/ograzhdeniya_betonnye/stolbiki_ograzhdeniya_okruglye/parkovochnoe_ograzhdenie_betonnoe_tver",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/1e7/500_500_1/parkovochnoe_ograzhdenie_betonnoe_tver.jpg",
+  "gen": {
+   "type": "bollard",
+   "shape": "cylinder"
+  },
+  "top": false
+ },
+ {
+  "id": "bicycle_parking_street_concrete_trio_arc",
+  "name": "Велопарковка уличная бетонная Трио Дуга",
+  "cat": "bikerack",
+  "price": 10921.0,
+  "L": 1000.0,
+  "W": 660.0,
+  "H": 420.0,
+  "D": null,
+  "kg": 105.0,
+  "url": "https://euromosblag.com/catalog/veloparkovki_betonnye/bicycle_parking_street_concrete_trio_arc",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/07b/500_500_1/velo_trio_duga_3.jpg",
+  "gen": {
+   "type": "bikerack"
+  },
+  "top": true
+ },
+ {
+  "id": "bicycle_parking_street_concrete_19x",
+  "name": "Велопарковка уличная бетонная 19X",
+  "cat": "bikerack",
+  "price": 0,
+  "L": 860.0,
+  "W": 120.0,
+  "H": 440.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/veloparkovki_betonnye/bicycle_parking_street_concrete_19x",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/942/500_500_1/veloparkovka_ulichnaya_betonnaya_19x.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "bicycle_parking_street_concrete_7x_s_teeth",
+  "name": "Велопарковка уличная бетонная 7X Надолб",
+  "cat": "bikerack",
+  "price": 0,
+  "L": 2850.0,
+  "W": 675.0,
+  "H": 300.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/veloparkovki_betonnye/bicycle_parking_street_concrete_7x_s_teeth",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/cad/500_500_1/veloparkovka_ulichnaya_betonnaya_7x_nadolb.jpg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "bicycle_parking_street_concrete_7x_rimini",
+  "name": "Велопарковка уличная бетонная 7X Римини",
+  "cat": "bikerack",
+  "price": 0,
+  "L": 2300.0,
+  "W": 580.0,
+  "H": 650.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/veloparkovki_betonnye/bicycle_parking_street_concrete_7x_rimini",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/7b3/500_500_1/veloparkovka_ulichnaya_betonnaya_7x_rimini.jpg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "a_concrete_block_fence_400kh200kh200_mm",
+  "name": "Блок бетонный заборный 400х200x200 мм",
+  "cat": "fence",
+  "price": 1816.0,
+  "L": 400.0,
+  "W": 200.0,
+  "H": 200.0,
+  "D": null,
+  "kg": 22.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/a_concrete_block_fence_400kh200kh200_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/fc4/500_500_1/blok_betonnyy_zabornyy_400kh200x200_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "the_pommel_of_the_concrete_fence_600kh250kh90_mm",
+  "name": "Навершие забора бетонное 600х250x90 мм",
+  "cat": "fence",
+  "price": 1816.0,
+  "L": 600.0,
+  "W": 250.0,
+  "H": 90.0,
+  "D": null,
+  "kg": 27.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/the_pommel_of_the_concrete_fence_600kh250kh90_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/2b5/500_500_1/navershie_zabora_betonnoe_600kh250x90_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "the_pommel_of_the_post_concrete_400kh400kh120_mm",
+  "name": "Навершие столба бетонное 400х400x120 мм",
+  "cat": "fence",
+  "price": 2089.0,
+  "L": 400.0,
+  "W": 400.0,
+  "H": 120.0,
+  "D": null,
+  "kg": 23.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/the_pommel_of_the_post_concrete_400kh400kh120_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/e02/500_500_1/navershie_stolba_betonnoe_400kh400x120_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "the_pommel_of_the_post_concrete_450kh450kh120_mm",
+  "name": "Навершие столба бетонное 450х450x120 мм",
+  "cat": "fence",
+  "price": 3179.0,
+  "L": 450.0,
+  "W": 450.0,
+  "H": 120.0,
+  "D": null,
+  "kg": 25.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/the_pommel_of_the_post_concrete_450kh450kh120_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/20e/500_500_1/navershie_stolba_betonnoe_450kh450x120_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "the_pommel_of_the_post_concrete_500x300x90_mm",
+  "name": "Навершие столба бетонное 500x300x90 мм",
+  "cat": "fence",
+  "price": 2089.0,
+  "L": 500.0,
+  "W": 300.0,
+  "H": 90.0,
+  "D": null,
+  "kg": 30.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/the_pommel_of_the_post_concrete_500x300x90_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/df8/500_500_1/navershie_stolba_betonnoe_500x300x90_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "the_pommel_of_the_post_concrete_500kh500kh120_mm",
+  "name": "Навершие столба бетонное 500х500x120 мм",
+  "cat": "fence",
+  "price": 4268.0,
+  "L": 500.0,
+  "W": 500.0,
+  "H": 120.0,
+  "D": null,
+  "kg": 27.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/the_pommel_of_the_post_concrete_500kh500kh120_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/9f9/500_500_1/navershie_stolba_betonnoe_500kh500x120_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "the_pommel_of_the_post_concrete_550kh580kh150_mm",
+  "name": "Навершие столба бетонное 550х580x150 мм",
+  "cat": "fence",
+  "price": 4632.0,
+  "L": 580.0,
+  "W": 550.0,
+  "H": 150.0,
+  "D": null,
+  "kg": 32.0,
+  "url": "https://euromosblag.com/catalog/zabory_betonnye/the_pommel_of_the_post_concrete_550kh580kh150_mm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/470/500_500_1/navershie_stolba_betonnoe_550kh580x150_mm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "concrete_paving_tiles_30kh30kh4_cm",
+  "name": "Плитка бетонная тротуарная 30х30х4 см",
+  "cat": "tile",
+  "price": 8355.0,
+  "L": 300.0,
+  "W": 300.0,
+  "H": 40.0,
+  "D": null,
+  "kg": 8.0,
+  "url": "https://euromosblag.com/catalog/plitka_betonnaya/concrete_paving_tiles_30kh30kh4_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/5f5/500_500_1/plitka_betonnaya_trotuarnaya_30kh30kh4_sm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "concrete_paving_tiles_with_a_recess_60kh5_cm",
+  "name": "Плитка бетонная тротуарная с выемкой 60х5 см",
+  "cat": "tile",
+  "price": 2543.0,
+  "L": 600.0,
+  "W": 600.0,
+  "H": 50.0,
+  "D": 600.0,
+  "kg": 22.0,
+  "url": "https://euromosblag.com/catalog/plitka_betonnaya/concrete_paving_tiles_with_a_recess_60kh5_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/a8b/500_500_1/plitka_betonnaya_trotuarnaya_s_vyemkoy_60kh5_sm.jpg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "tile_concrete_basement_15kh30_cm",
+  "name": "Плитка бетонная фасадная цокольная 15х30 см",
+  "cat": "tile",
+  "price": 2597.0,
+  "L": 300.0,
+  "W": 150.0,
+  "H": 15.0,
+  "D": null,
+  "kg": null,
+  "url": "https://euromosblag.com/catalog/plitka_betonnaya/tile_concrete_basement_15kh30_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/6cf/500_500_1/plitka_betonnaya_fasadnaya_tsokolnaya_15kh30_sm.jpeg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ },
+ {
+  "id": "tile_concrete_basement_40kh20_cm",
+  "name": "Плитка бетонная фасадная цокольная 40х20 см",
+  "cat": "tile",
+  "price": 7356.0,
+  "L": 400.0,
+  "W": 200.0,
+  "H": 35.0,
+  "D": null,
+  "kg": 6.5,
+  "url": "https://euromosblag.com/catalog/plitka_betonnaya/tile_concrete_basement_40kh20_cm",
+  "img": "https://euromosblag.com/upload/resize_cache/iblock/e46/500_500_1/plitka_betonnaya_fasadnaya_tsokolnaya_40kh20_sm.jpg",
+  "gen": {
+   "type": "proxy"
+  },
+  "top": false
+ }
+]
